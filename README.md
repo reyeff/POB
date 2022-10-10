@@ -1,9 +1,6 @@
-# Digiflazz PHP Library
-[![Latest Stable Version](http://poser.pugx.org/nurfaizfy/digiflazz-php-library/v)](https://packagist.org/packages/nurfaizfy/digiflazz-php-library)
-[![Total Downloads](http://poser.pugx.org/nurfaizfy/digiflazz-php-library/downloads)](https://packagist.org/packages/nurfaizfy/digiflazz-php-library)
-[![License](http://poser.pugx.org/nurfaizfy/digiflazz-php-library/license)](https://packagist.org/packages/nurfaizfy/digiflazz-php-library)
+# Library PPOB Indonesia
 
-This library is unofficial Digiflazz API written with PHP.
+Library untuk memudahkan para developer di Indonesia untuk mendapatkan Layanan terintegrasi.
 
 -   [Documentation](#documentation)
 -   [Installation](#installation)
@@ -28,6 +25,13 @@ This library is unofficial Digiflazz API written with PHP.
 -   [Contributing](#contributing)
 
 ---
+
+## Provider
+- https://digiflazz.com
+- https://apigames.com
+
+## Payment
+- https://tripay.co.id
 
 ## Documentation
 
