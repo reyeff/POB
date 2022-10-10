@@ -1,0 +1,21 @@
+{
+    "name": "reyeff/ppob",
+    "description": "Library for PPOB Indonesia include Local Payment Gateway",
+    "type": "library",
+    "require": {
+        "guzzlehttp/guzzle": "^7.0",
+        "symfony/http-foundation": "^6.0",
+        "phpmailer/phpmailer": "dev-master",
+        "php-curl-class/php-curl-class": "dev-master"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Reyeff\\PPOB\\": "src/"
+        }
+    },
+    "authors": [{
+        "name": "Reyeff",
+        "email": "reynaldi.effendi@gmail.com"
+    }]
+}
